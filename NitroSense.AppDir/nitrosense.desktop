@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Linux NitroSense V3
+Comment=Monitor & Control Acer Nitro V16
+Exec=/usr/bin/nitrosense_v3
+Icon=nitro_icon
+Terminal=false
+Categories=Utility;
+
