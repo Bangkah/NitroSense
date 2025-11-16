@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NitroSense
+Comment=Monitor CPU/GPU and control fans
+Exec=nitrosense_v3
+Icon=nitro_icon
+Terminal=false
+Type=Application
+Categories=Utility;

@@ -1,3 +1,4 @@
+cp nitrosense.desktop NitroSense.AppDir/
 # -*- mode: python ; coding: utf-8 -*-
 
 

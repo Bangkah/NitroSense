@@ -1,10 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Type=Application
-Name=Linux NitroSense V3
-Comment=Monitor & Control Acer Nitro V16
-Exec=/usr/bin/nitrosense_v3
+Name=NitroSense
+Comment=Monitor CPU/GPU and control fans
+Exec=nitrosense_v3
 Icon=nitro_icon
 Terminal=false
+Type=Application
 Categories=Utility;
-
+X-AppImage-Version=618db7d
