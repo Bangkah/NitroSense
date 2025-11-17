@@ -1,5 +1,4 @@
-
-# Linux NitroSense V3
+# Linux NitroSense
 
 **Linux NitroSense V3** adalah aplikasi monitoring dan kontrol hardware khusus untuk laptop **Acer Nitro V16** di Linux.  
 Aplikasi ini memungkinkan kamu memonitor suhu CPU/GPU, performa, dan kontrol fan langsung dari desktop Linux menggunakan AppImage.
